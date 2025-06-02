@@ -47,7 +47,6 @@ Whether it’s launching NFT platforms, crypto wallets, DeFi protocols, or seaml
 
 🤖 AI Agent Integration — Embedding LLM-powered agents into dApps for automation and on-chain reasoning
 
-📚 Blockchain Research — Exploring new protocols, token models, and ecosystem trends
 
 ---
 
