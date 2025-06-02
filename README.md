@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Arafayyy/Arafayyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -75,4 +74,3 @@ Whether it’s launching NFT platforms, crypto wallets, DeFi protocols, or seaml
 
 > ⚡ Building the decentralized future, one line of code at a time.
 - ⚡ Fun fact: ...
--->
