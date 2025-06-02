@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-Hi, I'm Abdur Rafay — a passionate **Full Stack Engineer** with 2+ years of experience building scalable, user-focused decentralized applications. I specialize in designing and developing blockchain-integrated products across Ethereum, Solana, and other EVM-compatible chains.
-Whether it’s launching NFT platforms, crypto wallets, DeFi protocols, or seamless cross-chain tools, I build practical solutions that move the web3 space forward.
+Hi, I'm Abdur Rafay — Software Engineer with over 2 years of experience in the Web3 domain, specializing in seamless frontend and
+backend integration for decentralized applications. Proficient in modern JavaScript frameworks like Next and React Native, with deep integration skills across Ethereum and Solana ecosystem.
 
 ---
 
