@@ -57,6 +57,3 @@ Whether it’s launching NFT platforms, crypto wallets, DeFi protocols, or seaml
 
  
 ---
-
-> ⚡ Building the decentralized future, one line of code at a time.
-- ⚡ Fun fact: ...
