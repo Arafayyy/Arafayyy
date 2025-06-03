@@ -47,10 +47,10 @@ I'm a Full Stack Engineer at [DroxLabs](https://www.droxlabs.com/) with over 2 y
 
 ### [Tars](https://tars.pro/) - Solana's AI Market
 A groundbreaking AI architecture protocol on Solana, building the largest AI market ecosystem. Key features:
-- Native LLM-based search engine (TGPT)
 - One-click AI agent deployment and tokenization
 - Integration with leading LLM providers (OpenAI, Anthropic)
 - Built on Eliza framework - a simple, fast, and lightweight AI agent framework
+- Native LLM-based search engine (TGPT)
 
 ### [Midl] - Cross-Border Payment Solution
 A decentralized payment platform that leverages crypto-backed custodians for international transactions. Features:
