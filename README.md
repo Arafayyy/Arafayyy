@@ -1,12 +1,11 @@
-# Abdur Rafay
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8BC0&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Engineer;Web3+Developer;Blockchain+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8BC0&center=true&vCenter=true&random=false&width=600&height=100&lines=Abdur+Rafay;Full+Stack+Engineer" alt="Typing SVG" />
 </div>
 
 ## 👨‍💻 About Me
 
-I'm a Full Stack Engineer at DroxLabs with over 2 years of experience specializing in Web3 development. My expertise lies in building decentralized applications with seamless frontend and backend integration. I'm passionate about creating innovative solutions that bridge traditional web technologies with blockchain ecosystems.
+I'm a Full Stack Engineer at [DroxLabs](https://www.droxlabs.com/) with over 2 years of experience specializing in Web3 development. My expertise lies in building decentralized applications with seamless frontend and backend integration. I'm passionate about creating innovative solutions that bridge traditional web technologies with blockchain ecosystems.
 
 ## 🛠️ Tech Stack
 
@@ -22,6 +21,7 @@ I'm a Full Stack Engineer at DroxLabs with over 2 years of experience specializi
 
 ### Databases & Infrastructure
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-ffca28?logo=firebase&logoColor=black)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
@@ -45,7 +45,7 @@ I'm a Full Stack Engineer at DroxLabs with over 2 years of experience specializi
 
 ## 🚀 Featured Projects
 
-### [Tars] - Solana's AI Market
+### [Tars](https://tars.pro/) - Solana's AI Market
 A groundbreaking AI architecture protocol on Solana, building the largest AI market ecosystem. Key features:
 - Native LLM-based search engine (TGPT)
 - One-click AI agent deployment and tokenization
