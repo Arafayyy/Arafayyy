@@ -1,4 +1,4 @@
-## Hi there 👋
+## Abdur Rafay
 
 Hi, I'm Abdur Rafay — Software Engineer with over 2 years of experience in the Web3 domain, specializing in seamless frontend and
 backend integration for decentralized applications. Proficient in modern JavaScript frameworks like Next and React Native, with deep integration skills across Ethereum and Solana ecosystem.
