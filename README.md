@@ -52,12 +52,6 @@ A groundbreaking AI architecture protocol on Solana, building the largest AI mar
 - Built on Eliza framework - a simple, fast, and lightweight AI agent framework
 - Native LLM-based search engine (TGPT)
 
-### [Midl] - Cross-Border Payment Solution
-A decentralized payment platform that leverages crypto-backed custodians for international transactions. Features:
-- Cross-border payment processing
-- Optimized tokenomics for cost reduction
-- Secure custodial services
-- Real-time transaction monitoring
 
 ## 📫 Connect With Me
 
