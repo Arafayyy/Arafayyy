@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Full Stack Engineer at [DroxLabs](https://www.droxlabs.com/) with over 2 years of experience specializing in Web3 development. My expertise lies in building decentralized applications with seamless frontend and backend integration. I'm passionate about creating innovative solutions that bridge traditional web technologies with blockchain ecosystems.
+I'm a Full Stack Engineer at [DroxLabs](https://www.droxlabs.com/) with over 3 years of experience specializing in Web3 development. My expertise lies in building decentralized applications with seamless frontend and backend integration. I'm passionate about creating innovative solutions that bridge traditional web technologies with blockchain ecosystems.
 
 ## 🛠️ Tech Stack
 
